@@ -21,4 +21,4 @@ O projeto foi desenvolvido como uma atividade prática para a disciplina de rob�
 
 - ## Vídeo Demonstrativo
 
-Assista ao vídeo demonstrativo do projeto [aqui](https://www.youtube.com/shorts/4eHPJnnkUsQ).
+Assista ao vídeo demonstrativo do projeto [aqui](https://www.youtube.com/shorts/4eHPJnnkUsQ){:target="_blank"}.
