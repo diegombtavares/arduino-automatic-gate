@@ -1,3 +1,18 @@
-# cancela-arduino
+# Projeto de Cancela Automática
 
-Este projeto consiste em uma cancela automática que pode ser aberta ao pressionar um botão. Quando o botão é pressionado, a cancela é aberta e uma luz verde é acionada. Após um carro passar pelo sensor de movimento, a cancela é fechada e uma luz vermelha é acionada. O projeto utiliza um servo motor para mover a cancela de uma posição de 0° para 90° quando o botão é pressionado e de volta para a posição de 0° quando o sensor de movimento detecta um carro em uma determinada distância. Toda essa funcionalidade é realizada por meio de programação em C++ no Arduino.
+Este projeto consiste em uma cancela automática controlada por um Arduino, que pode ser aberta ao pressionar um botão e fechada automaticamente quando um carro é detectado por um sensor de movimento. A cancela é movida por um servo motor e indicações visuais são fornecidas por LEDs.
+
+## Funcionalidades
+
+- Abrir a cancela ao pressionar um botão.
+- Fechar a cancela automaticamente quando um carro é detectado pelo sensor de movimento.
+- Indicar visualmente o estado da cancela com LEDs (verde para aberto, vermelho para fechado).
+
+## Componentes Utilizados
+
+- Arduino Uno
+- Servo motor
+- Sensor de movimento (PIR)
+- LEDs (verde e vermelho)
+- Botão
+- Resistores
